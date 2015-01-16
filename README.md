@@ -36,8 +36,8 @@ the transfer of multidimensional data for maps.
 
 # Implementations
 
-* GBIF Link
-* CartoDB Link
+* GBIF
+* [CartoDB](http://cartodb.com)'s [Torque](https://github.com/CartoDB/torque) -- temporal maps
 
 # Authors
 
@@ -47,8 +47,8 @@ the transfer of multidimensional data for maps.
 * Sandro Santilli (strk)
 * Tim Robertson (timrobertson100)
 
-The authors of the draw upon two existing specifications to guide the
-development and publication of TileCubes,
+The authors draw upon two existing specifications to guide the
+development and publication of TileCubes:
 
 * [MBTiles](https://github.com/mapbox/mbtiles-spec) Tile Map
-* [Service](http://wiki.osgeo.org/wiki/Tile_Map_Service_Specification)
+* [Tile Map Service](http://wiki.osgeo.org/wiki/Tile_Map_Service_Specification)
